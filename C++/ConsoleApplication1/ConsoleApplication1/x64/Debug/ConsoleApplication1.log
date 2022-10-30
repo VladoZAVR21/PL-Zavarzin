@@ -1,3 +1,0 @@
-﻿  ConsoleApplication1.cpp
-G:\GitRep\PL-Zavarzin\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  ConsoleApplication1.vcxproj -> G:\GitRep\PL-Zavarzin\C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
