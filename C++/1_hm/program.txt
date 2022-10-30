@@ -1,0 +1,30 @@
+#include <iostream>
+#include<clocale>
+using namespace std;
+
+int main()
+{
+    setlocale(LC_ALL, "Russian"); //Работа с русскими буквами
+    char ch1[20] = "Строка 1";
+    char ch2[20] = "Строка 2";
+    bool f;
+    
+    f = strcmp(ch1,ch2); //Проверка на равенство строк по содержимому
+    if (f) {
+        cout << f << endl;
+        cout << "Строки не равны" << endl;
+    }
+
+    char ch3[100];
+    strcpy_s(ch3, ch2);//Копирование строки 2 в строку 3
+    cout << (ch3) << endl;
+
+    strcat_s(ch3, " + какая-то строка"); //Конкатенация
+    cout << ch3 << endl;
+
+    //Вместо strcpy и strcat использовались strcpy_s и strcat_s, так как компилятор считает функции устаревшими и не запускает их
+
+    cout << "size(ch3)=" << size(ch3) << endl; //Вывод размера строки (описанного массива)
+
+    system("pause");
+}

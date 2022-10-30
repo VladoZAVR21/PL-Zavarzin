@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+G:\GitRep\PL-Zavarzin\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,7): warning C4101: c: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> G:\GitRep\PL-Zavarzin\C++\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
