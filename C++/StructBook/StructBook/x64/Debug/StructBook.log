@@ -1,3 +1,0 @@
-﻿  StructBook.cpp
-G:\GitRep\PL-Zavarzin\C++\StructBook\StructBook\StructBook.cpp(63,9): warning C4091: : пропускается слева от "int", когда ни одна переменная не объявлена
-  StructBook.vcxproj -> G:\GitRep\PL-Zavarzin\C++\StructBook\x64\Debug\StructBook.exe
