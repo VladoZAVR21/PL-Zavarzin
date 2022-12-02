@@ -1,0 +1,5 @@
+﻿  KR3.cpp
+G:\GitRep\PL-Zavarzin\C++\KR3\KR3\KR3.cpp(59,33): warning C4101: Y: неиспользованная локальная переменная
+G:\GitRep\PL-Zavarzin\C++\KR3\KR3\KR3.cpp(59,26): warning C4101: nextX: неиспользованная локальная переменная
+G:\GitRep\PL-Zavarzin\C++\KR3\KR3\KR3.cpp(60,6): warning C4101: n: неиспользованная локальная переменная
+  KR3.vcxproj -> G:\GitRep\PL-Zavarzin\C++\KR3\x64\Debug\KR3.exe
